@@ -1,0 +1,10 @@
+C:\Users\vaain\source\repos\QaVisma\QaVisma\bin\Debug\netcoreapp3.1\QaVisma.exe
+C:\Users\vaain\source\repos\QaVisma\QaVisma\bin\Debug\netcoreapp3.1\QaVisma.deps.json
+C:\Users\vaain\source\repos\QaVisma\QaVisma\bin\Debug\netcoreapp3.1\QaVisma.runtimeconfig.json
+C:\Users\vaain\source\repos\QaVisma\QaVisma\bin\Debug\netcoreapp3.1\QaVisma.runtimeconfig.dev.json
+C:\Users\vaain\source\repos\QaVisma\QaVisma\bin\Debug\netcoreapp3.1\QaVisma.dll
+C:\Users\vaain\source\repos\QaVisma\QaVisma\bin\Debug\netcoreapp3.1\QaVisma.pdb
+C:\Users\vaain\source\repos\QaVisma\QaVisma\obj\Debug\netcoreapp3.1\QaVisma.AssemblyInfoInputs.cache
+C:\Users\vaain\source\repos\QaVisma\QaVisma\obj\Debug\netcoreapp3.1\QaVisma.AssemblyInfo.cs
+C:\Users\vaain\source\repos\QaVisma\QaVisma\obj\Debug\netcoreapp3.1\QaVisma.dll
+C:\Users\vaain\source\repos\QaVisma\QaVisma\obj\Debug\netcoreapp3.1\QaVisma.pdb
